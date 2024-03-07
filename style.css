@@ -191,7 +191,7 @@ button:hover p {
   background: #fff;
   opacity: 0;
   pointer-events: none;
-  border-radíus:15px;
+  border-radius: 15px;
 }
 .content h1 {
   opacity: 0;
