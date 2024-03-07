@@ -31,7 +31,7 @@ body {
 }
 .wrapper.active {
   width: 400px;
-  height: 635px;
+  height: 645px;
 }
 .loader {
   position: relative;
